@@ -15,12 +15,16 @@ Also tempted to make a rhythem game down the line at some point stay tuned for t
   . 
   .
 # Games Website 
-  [This is NOT the games website it is just a place holder for the website template i was messing around with](https://github.com/battlequestAAA/Website-files)
+  [This is NOT the games website it is just a place holder for the website template i was messing around with like 2 years ago](https://github.com/battlequestAAA/Website-files)
 
 # Project Map
-
+  . Will make and update on here by the end of Wednesday.
+  
 # Insperations
-
+  . I will also update this later as i am currently at work :D
+  
 # Links
-
+  [Games Website not hosted/built yet so enjoy google for now (or dont)[(https://www.google.com/)
+  [Comunity Discord]((https://www.discord.com/)
+  [My github page (half the stuff is private sorry)](https://github.com/battlequestAAA)
 
