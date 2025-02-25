@@ -18,7 +18,7 @@ Also tempted to make a rhythem game down the line at some point stay tuned for t
   [This is NOT the games website it is just a place holder for the website template i was messing around with like 2 years ago](https://github.com/battlequestAAA/Website-files)
 
 # Project Map
-  Will make and update on here by the end of Wednesday.
+  Will make and update on here by the end of Wednesday if i can be bothered to make it.
   
 # Insperations
   I will also update this later as i am currently at work :D
