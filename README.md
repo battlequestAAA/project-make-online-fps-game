@@ -24,7 +24,7 @@ Also tempted to make a rhythem game down the line at some point stay tuned for t
   I will also update this later as i am currently at work :D
   
 # Links
-  [Games Website not hosted/built yet so enjoy google for now (or dont)[(https://www.google.com/)
-  [Comunity Discord]((https://www.discord.com/)
-  [My github page (half the stuff is private sorry)](https://github.com/battlequestAAA)
+  [Games Website not hosted/built yet so enjoy google for now, or dont](https://www.google.com/)
+  [Comunity Discord](https://www.discord.com/)
+  [My github page, half the stuff is private sorry](https://github.com/battlequestAAA)
 
