@@ -1,3 +1,3 @@
 # Website files
 
-# Hosted through cloudflare
+# Hosted through cloudflare with WordPress Plugins
