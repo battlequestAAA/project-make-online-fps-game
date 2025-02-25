@@ -3,7 +3,9 @@ This is a WIP project that will be used for experimentation on hosting online an
 This might be a permanent WIP but we will have to see.
 
 Current phase - Relearning C# cus i completely forgot how to use it -_-
+
 Phase 2 - Make front end of the website
+
 Phase 3 - Host the front end part of the website
 
 Also tempted to make a rhythem game down the line at some point stay tuned for that will be after ive decided ive messed with this enough.
