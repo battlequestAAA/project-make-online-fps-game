@@ -1,3 +1,3 @@
 # Website files
 
-# Hosted through cloudflare with WordPress Plugins
+# Hosted through cloudflare built with svelte
